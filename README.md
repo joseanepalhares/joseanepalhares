@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **joseanepalhares/joseanepalhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> ### Hi, I'm Joseane 👋  <a href="https://www.linkedin.com/in/joseanepalhares/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
